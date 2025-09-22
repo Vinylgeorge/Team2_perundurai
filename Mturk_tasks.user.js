@@ -4,8 +4,8 @@
 // @match       https://worker.mturk.com/projects/*/tasks/*
 // @grant       GM_xmlhttpRequest
 // @version     2.0
-// @updateURL    https://raw.githubusercontent.com/Vinylgeorge/Team-perundurai/refs/heads/main/Mturk_tasks.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vinylgeorge/Team-perundurai/refs/heads/main/Mturk_tasks.user.js
+// @updateURL    https://raw.githubusercontent.com/Vinylgeorge/Team2_perundurai/refs/heads/main/Mturk_tasks.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vinylgeorge/Team2_perundurai/refs/heads/main/Mturk_tasks.user.js
 // ==/UserScript==
 
 (function () {
